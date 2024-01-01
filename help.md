@@ -1,1 +1,1 @@
-This is the first test line for merge conflict.
+This is the first test lines for merge conflicts.
